@@ -8,6 +8,10 @@
 	border-radius: 7px;
 	padding: 13px 13px 13px 54px;
 }
+.boton-next{
+	position: absolute;
+	bottom: 0%;
+}
 .bot{
 	background-color: black;
 	
